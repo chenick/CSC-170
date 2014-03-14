@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Lab 04</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<div class="container">
+			<h1>William Shakespeare</h1>
+			<p class="lead"><img class="img1" alt = "Shakespeare" src = "images/shakespeare-logo.png">William Shakespeare was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. His plays have been translated into every major living language and are performed more often than those of any other playwright.</p>
+			<h2>Life</h2>
+			<img class="img2-3" alt = "Shakespeare" src = "images/shakespeare.jpg">
+			<p>William Shakespeare was the son of John Shakespeare, an alderman and a successful glover originally from Snitterfield, and Mary Arden, the daughter of an affluent landowning farmer. He was born in Stratford-upon-Avon and baptised there on 26 April 1564. His actual date of birth remains unknown, but is traditionally observed on 23 April, Saint George's Day. This date, which can be traced back to an 18th-century scholar's mistake, has proved appealing to biographers, since Shakespeare died 23 April 1616. He was the third child of eight and the eldest surviving son.</p>
+			<img class="img2-3" alt = "Shakespeare's birthplace" src = "images/shakespeare-birthplace.jpg">
+			<p>Although no attendance records for the period survive, most biographers agree that Shakespeare was probably educated at the King's New School in Stratford, a free school chartered in 1553, about a quarter-mile from his home. Grammar schools varied in quality during the Elizabethan era, but grammar school curricula were largely similar, the basic Latin text was standardised by royal decree, and the school would have provided an intensive education in grammar based upon Latin classical authors.</p>
+			<h2>Lists</h2>
+			<h3>Works</h3>
+			<ul>
+				<li>All's Well That Ends Well</li>
+				<li>As You Like It</li>
+				<li>The Comedy of Errors</li>
+				<li>Love's Labour's Lost</li>
+				<li>Measure for Measure</li>
+				<li>The Merchant of Venice</li>
+				<li>The Merry Wives of Windsor</li>
+				<li>A Midsummer Night's Dream</li>
+				<li>Much Ado About Nothing</li>
+				<li>Pericles, Prince of Tyre</li>
+				<li>The Taming of the Shrew</li>
+				<li>The Tempest</li>
+				<li>Twelfth Night</li>
+				<li>The Two Gentlemen of Verona</li>
+				<li>The Two Noble Kinsmen</li>
+				<li>The Winter's Tale</li>
+			</ul>
+			<h3>Tragedies</h3>
+			<ul>
+				<li>Romeo and Juliet</li>
+				<li>Coriolanus</li>
+				<li>Titus Andronicus</li>
+				<li>Timon of Athens</li>
+				<li>Julius Caesar</li>
+				<li>Macbeth</li>
+				<li>Hamlet</li>
+				<li>Troilus and Cressida</li>
+				<li>King Lear</li>
+				<li>Othello</li>
+				<li>Antony and Cleopatra</li>
+				<li>Cymbeline</li>
+			</ul>
+			<hr>
+			<p>All content except the logo, copied on October 2, 2013 from <a href = "http://en.wikipedia.org/wiki/William_Shakespeare" target="_blank">the William Shakespeare page</a> on Wikipedia.</p>
+			<p>The logo was copied on October 2, 2013 from the <a href = "http://www.shakespeareindelawarepark.org" target="blank">Shakespeare in Delaware Park</a> website</p>
+		</div>
+	</body>
+
+</html>
