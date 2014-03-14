@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Project 1</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+		<h1>Assessment of NFL Athletes’ Compensation for Risk of Injury By Position</h1>
+		
+		<img alt = "NFL" src = "images/nfllogo.jpg">
+		
+		<h2>I. Introduction</h2>
+
+		<p>This paper attempts to determine whether or not NFL athletes are compensated appropriately for the risk of injury, which they bear. <strong>An economic perspective on NFL player compensation would likely value a player at his marginal revenue product.</strong> However, this approach likely only accounts for the amount of money a player generates through his contribution to winning in the form of ticket sales, jersey sales, advertisement revenue, and the like. <em>This methodology is void of any compensation for the risk a player must bear in suiting up to play a particular position. </em>Given two players with equal marginal revenue products, one would like to the think that the player who is hit twenty times over the course of an NFL game is somehow compensated more than his MRP counterpart absorbing five hits.</p>
+
+		<h2>II. Application to Finance</h2>
+
+		<p>In the financial markets, investors are often paid premiums for additional risks taken on, all other factors held constant. The Security Market Line is the graphical representation of the capital asset pricing model, graphing risk versus expected return, whose slope tells how much expected return increases per unit of risk, beta, taken on. The positive-sloping line is an aggregate of all investments offered in the market, which means that any potential investment that falls below the Security Market Line should be rejected, and any investment above it should be accepted. This is because the y-intercept of the Security Market Line is the risk-free rate, so any point that falls below the line would require a lesser slope to go through it, meaning a lower expected return for each given unit of risk. The opposite is true for a point above the line, where the slope would increase, offering a higher expected return for each unit of risk.</p>
+
+		<h2>III. Data</h2>
+
+		<p>In the absence of a Moneyball-type study conducted on which NFL positions contribute greater to winning, it is difficult to control for skill level, and thus determine the proportion of each player’s salary due to their contribution to winning compared to compensation for injury risk.</p>
+
+		<p>Table 1 lists the average NFL salary at each position for the 2008 season, accompanied by the amount of players at each position that were on the Injured Reserve list that season. Given the structure of an offensive or defensive alignment, it is likely that there are more players of a certain position than others on the field at a given time; thus, it would be expected that the position with the greatest number of men on the field saw the highest number go to the Injured Reserve list. In order to control for this variable, the number of players that went to the Injured Reserve list was divided by the average number of players at the position on the field at a given time. This yielded the “Accounting for Playing Time” category, whose data makes sense to compare to one another. The average salary for each position was then divided by the playing time-adjusted Injured Reserve list, to yield the “Compensation per Injury” statistic. This data assumes that no other factors or than risk of injury are taken into account when compensating players, and that a player who has no risk of injury is paid $0.</p>
+
+		<table border="1">
+			<caption><strong>Table 1:</strong> Position Analysis (2008)</caption>
+			<tr>
+				<th>2008</th>
+				<th>SALARY</th>
+				<th>INJURED RESERVE</th>
+				<th>ON FIELD AT A TIME</th>
+				<th>ACC FOR PLAYING TIME</th>
+				<th>COMPENSATION PER INJURY</th>
+			</tr>
+			<tr>
+				<td>QUARTERBACK</td>
+				<td>$1,970,982</td>
+				<td>12</td>
+				<td>1</td>
+				<td>12.0</td>
+				<td>$164,248.50</td>
+			</tr>
+			<tr>
+				<td>DEFENSIVE END</td>
+				<td>$1,583,784</td>
+				<td>17.5</td>
+				<td>2</td>
+				<td>8.8</td>
+				<td>$181,003.89</td>
+			</tr>
+			<tr>
+				<td>OFFENSIVE LINEMAN</td>
+				<td>$1,267,402</td>
+				<td>44</td>
+				<td>3</td>
+				<td>14.7</td>
+				<td>$86,413.77</td>
+			</tr>
+			<tr>
+				<td>DEFENSIVE TACKLE</td>
+				<td>$1,223,925</td>
+				<td>17</td>
+				<td>3.5</td>
+				<td>4.9</td>
+				<td>$251,984.56</td>
+			</tr>
+			<tr>
+				<td>CORNERBACK</td>
+				<td>$1,193,666</td>
+				<td>26</td>
+				<td>2.5</td>
+				<td>10.4</td>
+				<td>$114,775.58</td>
+			</tr>
+			<tr>
+				<td>LINEBACKER</td>
+				<td>$1,175,788</td>
+				<td>34.5</td>
+				<td>3</td>
+				<td>11.5</td>
+				<td>$102,242.43</td>
+			</tr>
+			<tr>
+				<td>WIDE RECEIVER</td>
+				<td>$1,054,437</td>
+				<td>16</td>
+				<td>2.333</td>
+				<td>6.9</td>
+				<td>$153,750.10</td>
+			</tr>
+			<tr>
+				<td>RUNNING BACK</td>
+				<td>$957,360</td>
+				<td>25</td>
+				<td>1.333</td>
+				<td>18.8</td>
+				<td>$51,046.44</td>
+			</tr>
+			<tr>
+				<td>SAFETY</td>
+				<td>$947,887</td>
+				<td>15</td>
+				<td>2</td>
+				<td>7.5</td>
+				<td>$126,384.93</td>
+			</tr>
+			<tr>
+				<td>PUNTER/KICKER</td>
+				<td>$868,005</td>
+				<td>4</td>
+				<td>0.4</td>
+				<td>10.0</td>
+				<td>$86,800.50</td>
+			</tr>
+			<tr>
+				<td>TIGHT END</td>
+				<td>$863,414</td>
+				<td>7</td>
+				<td>1.333</td>
+				<td>5.3</td>
+				<td>$164,418.69</td>
+			</tr>
+		</table>
+
+		<p>The average NFL salary in 2008 was then divided by the average playing time-adjusted Injured Reserve list for each position, to generate the average compensation per unit of injury. It is discovered that all positions are undercompensated other than Defensive Tackle, some significantly more than others. Running Backs are compensated the least, given their risk of injury, by an unprecedented margin.</p>
+
+		<h2>IV. Discussion</h2>
+
+		<p>A significant issue with the data used is that all players are assumed to have an equal contribution to the winning of each football game, which likely is not the case. Although there are certainly anomalies for Pro-Bowl players at their respective position, it is probable that certain positions are more essential to winning than others.</p>
+
+		<p>Another factor that may have skewed data is that only one year of statistics was used, as there may have been an uncharacteristically high or low amount of players from a certain position on the Injured Reserve list. A historical aggregate of compensation and Injured Reserve list records by position would contribute to an analysis more representative of the true injury risk and compensation associated with each position.</p>
+
+		<p>The Injured Reserve list also may not be the optimal unit of measurement for player injuries, as many players that hurt themselves do not end up on the Injured Reserve list. A more comprehensive compilation of games missed due to injury would give a more accurate picture of how many players at each position are truly injured in a given season.</p>
+
+		<h2>V. Robert Griffin III Caveat</h2>
+
+		<p>There is significant variation in style of play at certain skill positions, involving considerably more risk of injury bearing than others. For example, mobile quarterbacks, such as Robert Griffin III and Michael Vick, constantly leave the protection of the pocket to expose themselves to significant injury from the likes of bigger and stronger linebackers. Although this factor is implicitly included in the average of injuries at each position, it is not explicitly accounted for.  A variable controlling for this, perhaps based on rushing yards for a Quarterback, or Yards after Contact for Running Backs and Wide Receivers, would enable a more complete understanding of the true injury risk that each player takes on.</p>
+
+		<h2>VI. Conclusion</h2>
+
+		<p>It is concluded that certain NFL positions, such as Running Back, are not properly compensated for the injury risk that the burden, based on the average compensation per injury at other positions. An increase in demand by under-compensated players may not garner much success, given that owners are not likely to pay players more than their marginal revenue product, regardless of injury risk. This analysis is for players at high-risk positions to have a better understanding of the true risks that they are taking, and how their compensation is affected.</p>
+
+		<h2>References</h2>
+
+		<ul>
+			<li><a href = "http://walterfootball.com/injuryreportnfl.php" target="_blank">Injured Reserve List Data from Walter Football</a></li>
+			<li><a href = "http://www.thefalcoholic.com/2010/7/7/1467728/which-nfl-position-groups-suffer" target="_blank">Position Playing Time Estimates from The Falcoholic</a></li>
+			<li>"NFL's Average Salaries By Position." Sports Illustrated. Web. 15 Dec. 2012.</li>
+			<li>Cherepinsky, Walter. "2008 NFL Injury Report: Injured Reserve List." Walter Football. 1 Jan. 2009. Web. 15 Dec. 2012.</li>
+			<li>Kirk, Jason. "Which NFL Position Groups Suffer the Most Injuries?" The Falcoholic. SB Nation, 7 July 2010. Web. 14 Dec. 2012.</li>
+			<li>Long, Howie, and John Czarnecki. "The Role of Special Teams in a Football Game."Dummies.com. Web. 15 Dec. 2012.</li>
+		</ul>
+
+
+	</body>
+</html>
