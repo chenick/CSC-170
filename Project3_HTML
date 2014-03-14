@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Charles Henick Multipage Website</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+        <div class="container">
+            <header>
+                <a href="index.html"><h1>
+                    <img alt="CEH" src="images/CEH.jpg" width="128" height="130">
+                    <img alt="CEH" src="images/BannerTitle.jpg" width="959" height="130">
+                </h1></a>
+            </header>
+  
+            <div id="contentWrap">
+                <article class="content">
+                    <section>
+                        <h2><a href="ch.html">I. Assessment of NFL Athletes' Compensation for Risk of Injury By Position (by Charles Henick)</a></h2>
+                        <p>This paper attempts to determine whether or not NFL athletes are compensated appropriately for the risk of injury, which they bear. An economic perspective on NFL player compensation would likely value a player at his marginal revenue product. However, this approach likely only accounts for the amount of money a player generates through his contribution to winning in the form of ticket sales, jersey sales, advertisement revenue, and the like. This methodology is void of any compensation for the risk a player must bear in suiting up to play a particular position. Given two players with equal marginal revenue products, one would like to the think that the player who is hit twenty times over the course of an NFL game is somehow compensated more than his MRP counterpart absorbing five hits.</p>
+                    </section>
+                    <section>
+                        <h2><a href="jw.html">II. Getting Off Track: Book Review (By Jake Williams)</a></h2>
+                        <p>It can always be said hindsight is 20/20. This idea is, of course, that, with respect to some event or occurrence, in retrospect we can nearly perfectly state what actually happened. Some of the more interesting views using hindsight are those reflecting on events that occur during the times of crisis, and <strong>John B. Taylor</strong> offers us just this perspective in <em>Getting Off Track</em>. In <em>Getting Off Track</em>, Taylor speaks on the problems of Government interaction during the Economic troubles faced in this country beginning in 2007 and 2008. Taylor provides an analysis and summary of the troubles faced during these times, giving the reader an understandable idea of what happened during this crisis, as well as why it happened and why it was prolonged. The causes and continuance of the crisis during this time has been highly debated, with a number of opposing arguments from book to book. Using some monetary and financial economics, Taylor offers his argument as to the causes of the crisis with some convincing points, coming from the man who fathered the macroeconomic Taylor Rule. Taylor offers a short and very understandable book to address the problems that would allow for a large array of readers.</p>
+                    </section>
+                    <section>
+                        <h2><a href="jb.html">III. Bullfighting in Andalucia, Spain (by Jacob Barron)</a></h2>
+                        <p>This analysis of bullfighting provides not only one man's experience at a bull fight, but provides a historical context for the ritualized, Spanish event. Many different types of bullfighting are discussed, addressing the difference in participants involved in each type of fight. For those planning their next trip to Spain, this review provides an insightful perspective on what to expect at a bullfight.</p>
+                    </section>
+                    <section>
+                        <h2><a href="sl.html">IV. Heaven and Hell: We Need Them Both (by Scott Levy)</a></h2>
+                        <p><strong>William Blake</strong>, although not appreciated during his lifetime, has been very influential to the modern world.  His writings have been read and reread for many years.  All of these readings have produced various interpretations.  These different interpretations are what make these writings so interesting and important to modern culture.  One of Blake’s works that was revolutionary is his “The Marriage of Heaven and Hell.”  In an essay entitled “Why Blake Wrote about the Bible,” Clark Waggoner comments on how Blake “subverts (Heaven and Hell) and creates a whole new mythology of the relationship between the eternal forces set in authority over man in the Bible.” In essence, this is exactly what Blake was trying to do by writing this controversial piece.</p>
+                    </section>
+                </article>
+    
+                <aside id="rtSidebar">
+                    <nav>
+                    <h3>Jump To:</h3>
+      	            <ul>
+                        <li><a id="selectedlink" href="index.html">OVERVIEW</a></li>
+                        <li><a href="ch.html">Work from Charles Henick</a></li>
+                        <li><a href="jb.html">Work from Jacob Barron</a></li>
+                        <li><a href="jw.html">Work from Jacob Williams</a></li>
+                        <li><a href="sl.html">Work from Scott Levy</a></li>
+                    </ul>
+                    </nav>
+                </aside>
+            </div>
+            
+            <footer>
+                <img id="footerbanner" alt="footer" src="images/Footer.jpg" width="900" height="55">
+            </footer>
+        </div>
+    </body>
+</html>
