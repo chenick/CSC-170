@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Lab 02</title>
+</head>
+
+<body>
+
+	<h1>Hello World!</h1>																			<!First Level Heading>
+	<p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>				<!Paragraph>
+	<h2>Nemo enim ipsam voluptatem quia voluptas</h2>												<!Second Level Heading>
+	<p> sit aspernatur aut odit aut fugit, sed quia <b>bolded words</b> <!Bolded Text>consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam <i>italicized words</i> <!Italicized Text>eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</p>
+	<br>																							        <!Line Break>
+	<img src = "images/geno.jpg"><br>													<!Image>
+	<br>
+	<a href = "https://my.rochester.edu">Blackboard</a>				<!Hyperink>
+	<br>
+	<br>
+	<hr>																							        <!Horizontal Line>
+	<h3>An Unordered List</h3>																<!An Unordered List>
+		<ul>
+			<li>Twenty Two</li>
+			<li>Sixteen</li>
+			<li>Seven Hundred</li>
+		</ul>
+	<h3>An Ordered List</h3>																	<!An Ordered List>
+		<ol>
+			<li>Signed</li>
+			<li>Sealed</li>
+			<li>Delivered</li>
+		</ol>
+	<h3>A Definition List</h3>																<!A Definition List>
+		<dt>Call Option</dt>
+			<dd>An agreement that gives an investor the right (but not the obligation) to buy a stock, bond, or commodity at a specified price within a specific time period.</dd>
+		<dt>Put Option</dt>
+			<dd>An option contract giving the owner the right, but not the obligation, to sell a specified amount of an underlying security at a specified price within a specified time.</dd>
+		<dt>European Option</dt>
+			<dd>An option that can only be exercised at the end of its life, at its maturity.</dd>	<!Comment>
+	<br>
+</body>
+</html>
