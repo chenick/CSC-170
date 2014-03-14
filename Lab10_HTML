@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Lab 10 - jQuery Plugins</title>
+<style>
+
+</style>
+</head>
+
+<body>
+	<h1>Barbecue (SlideShow Plugin)</h1>
+
+	<div class="cycle-slideshow" data-cycle-speed="10" data-cycle-timeout="100" data-cycle-pause-on-hover="true">
+		<img alt="BBQ1" src="images/food1.jpg">
+		<img alt="BBQ2" src="images/food2.jpg">
+		<img alt="BBQ3" src="images/food3.jpg">
+	</div>
+
+	<p>The jQuery plugin was downloaded from <a href="http://jquery.malsup.com/cycle2">Cycle2</a> by Malsup.</p>
+	<p>The photos are taken from <a href="http://www.grubstreet.com/2013/06/best-new-york-barbecue.html#">"Barbecue With a New York Accent"</a> shot by Bobby Doherty for New York Magazine</p>
+	
+	<script src="js/jquery.js"></script>
+	<script src="js/lab10.js"></script>
+</body>
+</html>
