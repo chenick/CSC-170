@@ -1,0 +1,38 @@
+<?php 
+$emailFrom = "chenick@u.rochester.edu"; 
+$emailTo = "chenick@u.rochester.edu "; 
+$subject = "Lab 9 - forms"; 
+ 
+// variables
+$name = Trim(stripslashes($_POST['name'])); 
+$telephone = Trim(stripslashes($_POST['telephone'])); 
+$email = Trim(stripslashes($_POST['email'])); 
+$message = Trim(stripslashes($_POST['message'])); 
+$major = Trim(stripslashes($_POST['major'])); 
+$class = Trim(stripslashes($_POST['class'])); 
+// email body text
+$body = ""; 
+$body .= "Name: "; 
+$body .= $name; 
+$body .= "\n"; 
+$body .= "Telephone: "; 
+$body .= $telephone; 
+$body .= "\n"; 
+$body .= "Email: "; 
+$body .= $email; 
+$body .= "\n"; 
+$body .= "Message: "; 
+$body .= $message; 
+$body .= "\n"; 
+$body .= "Class: "; 
+$body .= $class; 
+$body .= "\n"; 
+$body .= "Major: "; 
+$body .= $major; 
+$body .= "\n"; 
+// send email 
+mail($emailTo, $subject, $body, "From: <$emailFrom>"); 
+
+// redirect to confirmation page 
+print "<meta http-equiv=\"refresh\" content=\"0;URL=confirmation.html\">"; 
+?> 
