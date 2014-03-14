@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Jacob Barron Project 1</title>
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+
+	<body>
+        <div class="container">
+            <header>
+                <a href="index.html"><h1>
+                    <img alt="CEH" src="images/CEH.jpg" width="128" height="130">
+                    <img alt="CEH" src="images/BannerTitle.jpg" width="959" height="130">
+                </h1></a>
+            </header>
+  
+            <div id="contentWrap">
+                <article class="content">
+                    <section>
+                        <h2 id="Proj1Title">Bullfighting in Andalucia, Spain</h2>
+                            <img id="Proj1Image" alt = "Bull" src = "images/bullfight.jpg">
+                            <h1>What is Bullfighting</h1>
+                                <p> Bullfighting, <strong>“La Fiesta Nacional,”</strong> is an old Spanish tradition and a very important part of Spanish culture.  While most people associate a bullfight with the killing of a bull, there are actually many different types of bullfights.  Encierro is the running of the bulls, the most famous of which takes place in Pamplona.  However, there are many smaller encierros that occur throughout Spain.  Another type of bullfight is the recortadore.  Here teams dodge the bull with as much style as possible, and the bull is usually not killed at the end.  One other type of bullfight where the bull is not typically killed is the capea.  These are informal, where both men and boys will jump into the ring to touch or mess with the bull.  And while the bull is usually not killed, many injuries and sometimes death can occur to the participants during these events.  The final and most famous type of bullfights is the corrida.  The participants in the corrida are the matador, the aficionados (fans), La cuadrilla (the entourage consisting of two picadores or lancers, three banderillero or flagmen, and el mozo de espada, the sword page), and of course the final and most important participant is the bull.  Here the bull is almost always killed (unless rarely pardoned), and there are six sequences, meaning six bulls are killed. This event is highly ritualized and looked at as an art, not a sport.</p>
+                            <h1>Local Opinions of Bullfighting</h1>
+                                <p>There are many opinions among Spaniards regarding bullfighting; some are large supporters, some are ambivalent, and some feel it is inhumane and despise the art.  While many tourists feel that a bullfight is something that you must see when in Spain, many locals feel differently.  I interviewed a Spaniard who I have become friends with about what he thought of bullfighting.  To paraphrase, he said he has been to a few bullfights with his father, but he is not very enthusiastic about them.  A couple of his friends, however, are very against it because of the inhumane way that they kill the bulls <em>(22 year old male, Seville, 11/13/2012)</em>.  So my friend, Juan, is ambivalent in regards to the bullfight, and simply does not find it interesting.  But this was to be expected, since he shares his views with about 81.7 percent of people in his age group.  The younger generation is much less interested in bullfighting, and many even oppose it.  The bull does not have the pleasure of enjoying a quick death, and is instead killed slowly and painfully.  Although many aficionados compensate for the brutal killing by arguing that the bull has a great life before the fight, there are many who believe that this is not enough, such as some of Juan’s friends whom he mentioned.  Juan also told me that the reason he has gone so many times is because his father is a fan of the bullfights.  He is not an extreme fan by any means, but he goes at least once a year with his friends and enjoys the art and beauty of the event.  In John McCormick’s book about bullfighting, he states, “To many people, to try to justify toreo is like justifying bank robbery or pandering; toreo, like any art, does not require justification,” (McCormick 1998, 6-7).  Many Spaniards actually do justify the killing of the bull for the art of the fight.  Juan’s father and his friends are able to enjoy and appreciate the artistic style of different matadors and enjoy the event.  The older generations in Spain like the bullfights a lot more, even reaching about 41 percent of people above the age of 65 saying that they are interested in the fights.  When I asked Juan about what he thought about the art of the sport, he said he did not really understand it and that it takes going to a lot of bullfights to really understand what is going on.  He appreciated the skills and performances of the matadors, but that his father and friends seemed to have a much greater understanding of it all.  The question is, is the tradition dying out, or do Spaniards just typically become more interested in bullfighting as they become older.</p>
+                                <table border="1">
+                                    <caption><strong>Table 1:</strong> Opinions by Age</caption>
+                                    <tr>
+                                        <th>Age</th>
+                                        <th>Pro Bullfighting (%)</th>
+                                        <th>Against Bullfighting (%)</th>
+                                        <th>No Opinion (%)</th>
+                                    </tr>
+                                    <tr>
+                                        <td>20 and Under</td>
+                                        <td>18</td>
+                                        <td>52</td>
+                                        <td>30</td>
+                                    </tr>
+                                    <tr>
+                                        <td>21-40</td>
+                                        <td>34</td>
+                                        <td>41</td>
+                                        <td>25</td>
+                                    </tr>
+                                    <tr>
+                                        <td>41-60</td>
+                                        <td>52</td>
+                                        <td>29</td>
+                                        <td>19</td>
+                                    </tr>
+                                    <tr>
+                                        <td>61 and Over</td>
+                                        <td>67</td>
+                                        <td>21</td>
+                                        <td>12</td>
+                                    </tr>
+                                </table>
+                            <h1>My Bullfight Experience</h1>
+                                <p>I would like to finish with my own experience of a bullfight.  When I went with CEA, I had very little prior knowledge of what would actually happen in the fight.  I was surprised at how ritualized and planned out it was.  I had thought there would be more of a fight between man and bull, a one on one battle.  Clearly, after seeing the bull in action, a single man versus a bull would be over very quickly, resulting in the carting away of the man, not the bull.  But there were planned stages and roles in the event which I knew nothing about, and I was more entertained by the action than the apparent art of it all.  And while I am glad that I was able to experience this important piece of Sapnish culture, I would have to categorize myself in the “not opposed but not interested” group.</p>
+                            <h1>References</h1>
+                                <ul>
+                                    <li><a href = "http://gospain.about.com/od/bullfightinginspain/qt/sevillebullfigh.htm">Where to See a Bullfight in Seville</a></li>
+                                    <li><a href = "http://catchthejiffy.com/2011/05/31/bullfighting-explained-warning-graphic-photos/">Bullfighting Explained</a></li>
+                                    <li>Bailey, Cathryn. 2007. “Africa begins at the Pyrenees”: Moral outrage, hypocrisy, and the Spanish bullfight. Ethnics and the Environment 12(1):23-37.</li>
+                                    <li>McCormick, John.  1998. Bullfighting: Art, Technique & Spanish Society.  New Jersey: Transaction Publishers.</li>
+                                    <li>My friend, Juan</li>
+                                </ul>
+                    </section>
+                </article>
+    
+                <aside id="rtSidebar">
+                    <nav>
+                    <h3>Jump To:</h3>
+                    <ul>
+                        <li><a href="index.html">Overview</a></li>
+                        <li><a href="ch.html">Work from Charles Henick</a></li>
+                        <li><a id="selectedlink" href="jb.html">WORK FROM JACOB BARRON</a></li>
+                        <li><a href="jw.html">Work from Jacob Williams</a></li>
+                        <li><a href="sl.html">Work from Scott Levy</a></li>
+                    </ul>
+                    </nav>
+                </aside>
+            </div>
+            
+            <footer>
+                <img id="footerbanner" alt="footer" src="images/Footer.jpg" width="900" height="55">
+            </footer>
+        </div>
+    </body>
+</html>
