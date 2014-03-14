@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Lab 9 - forms</title>
+<style>
+	label {display: block;}
+</style>
+</head>
+
+<body>
+	<form action="form-processor.php" method="post">
+		<label for="name">Name: <input type="text" name="name" id="name"></label>
+		<label for="email">Email: <input type="text" name="email" id="email"></label>
+		<label for="telephone">Telephone: <input type="tel" name="telephone" id="telephone"></label>
+		
+		<label for="major">Major: </label>
+			<input type="checkbox" name="major" value="humanities" id="major">Humanities<br>
+			<input type="checkbox" name="major" value="social sciences">Social Sciences<br>
+			<input type="checkbox" name="major" value="natural sciences">Natural Sciences
+		<label for="class">Class: </label>
+			<input type="radio" name="class" value="freshman" id="class">Freshman<br>
+			<input type="radio" name="class" value="sophomore">Sophomore<br>
+			<input type="radio" name="class" value="junior">Junior<br>
+			<input type="radio" name="class" value="senior">Senior
+		<label for="message">Message: <input type="text" name="message" id="message"></label>
+		<input type="submit" value="Send">
+	</form>
+</body>
+</html>
