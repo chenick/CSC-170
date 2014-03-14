@@ -1,0 +1,84 @@
+body
+{
+	background-color: #DFEFF0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.container
+{
+	margin: 0 auto;
+	width: 720px;
+}
+
+.lead
+{
+	background-image: url(../images/bg.png);
+	color: white;
+	padding: 10px;
+	font-weight: bold;
+}
+
+a:hover { color: #AD235E;}
+
+h1
+{
+	color: #AD235E;
+	border-bottom: 1px solid #AD235E;
+}
+
+h2
+{
+	background-color: #d5edb3;
+	font-family: Georgia, "Times New Roman", serif;
+	font-style: italic;
+	font-weight: normal;
+	color: #5c743d;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin-bottom: 5px;
+	padding-left: 40px;
+	background-image: url(../images/leaf-bullet.png);
+	background-repeat: no-repeat;
+	background-position: 10px center;
+
+}
+
+h3
+{
+	border-bottom: 1px solid #191970;
+	border-left: 5px solid #191970;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.img1
+{
+	float: left;
+	margin-right: 15px;
+}
+
+.img2-3
+{
+	float: right;
+	padding: 5px;
+	border: 1px solid #999;
+	margin-left: 15px;
+}
+
+p
+{
+	color: #333333;
+	margin-top: 0px;
+}
+
+a
+{
+	text-decoration: none;
+	color: #7D9C9F;
+}
+
+ul 
+{ 
+	padding-left: 20px; 
+}
