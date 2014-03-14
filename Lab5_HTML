@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Lab 5,6,7</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+	
+<body>
+<div class="container">
+    <section id="top-matter" class="separator-s clearfix">
+        <header>
+            <a href="start.html">
+                <img class="img-frame left" src="images/main-logo.jpg" alt="Shakespeare">
+                <h1 class="box">William Shakespeare</h1>
+            </a>
+        </header>
+        
+        <a class="notice" href="#citations">All content cited</a>
+        
+        <nav class="box">
+            <ul>
+                <li><a href="start.html" class="is-current">Life</a></li>
+                <li><a href="#">Theatrical Career</a></li>
+                <li><a href="#">Later Years</a></li>
+            </ul>
+        </nav>
+    </section>
+    
+    <section>
+    	<div class="lead">
+            <img class="left" src="images/shakespeare-logo.png" alt="Shakespeare">
+            <p>William Shakespeare was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon." His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. His plays have been translated into every major living language and are performed more often than those of any other playwright.</p>
+        </div>
+        
+        <article>
+            <h2>Life</h2>
+
+            <div class="clearfix">
+                <img class="img-frame right" src="images/shakespeare.jpg" alt="Shakespeare">
+                <p>William Shakespeare was the son of John Shakespeare, an alderman and a successful glover originally from Snitterfield, and Mary Arden, the daughter of an affluent landowning farmer. He was born in Stratford-upon-Avon and baptised there on 26 April 1564. His actual date of birth remains unknown, but is traditionally observed on 23 April, Saint George's Day. This date, which can be traced back to an 18th-century scholar's mistake, has proved appealing to biographers, since Shakespeare died 23 April 1616. He was the third child of eight and the eldest surviving son.</p>
+            </div>
+            
+            <img class="img-frame right" src="images/shakespeare-birthplace.jpg" alt="Shakespeare's birthplace">
+            <p>Although no attendance records for the period survive, most biographers agree that Shakespeare was probably educated at the King's New School in Stratford, a free school chartered in 1553, about a quarter-mile from his home. Grammar schools varied in quality during the Elizabethan era, but grammar school curricula were largely similar, the basic Latin text was standardised by royal decree, and the school would have provided an intensive education in grammar based upon Latin classical authors.</p>
+            
+        </article>
+        
+        <aside>
+            <h2>Works</h2>
+            <p class="highlight">Shakespeare's works include the 36 plays printed in the First Folio of 1623.</p>
+            <ul>
+                <li>All's Well That Ends Well</li>
+                <li>As You Like It</li>
+                <li>The Comedy of Errors</li>
+                <li>Love's Labour's Lost</li>
+                <li>Measure for Measure</li>
+                <li>The Merchant of Venice</li>
+                <li>The Merry Wives of Windsor</li>
+                <li>A Midsummer Night's Dream</li>
+                <li>Much Ado About Nothing</li>
+                <li>Pericles, Prince of Tyre</li>
+                <li>The Taming of the Shrew</li>
+                <li>The Tempest</li>
+                <li>Twelfth Night</li>
+                <li>The Two Gentlemen of Verona</li>
+                <li>The Two Noble Kinsmen</li>
+                <li>The Winter's Tale </li>
+            </ul>
+        </aside>
+    </section>
+    
+    <footer>
+        <h1 id="citations">Citations</h1>
+        <p>All content except the logos, copied on September 29, 2013 from <a href="http://en.wikipedia.org/wiki/William_Shakespeare">the <em>William Shakespeare</em> page</a> on Wikipedia.</p>
+        <p>The main logo was copied on October 20, 2013 from the <a href="http://www.biography.com/people/william-shakespeare-9480323">Biography</a> website.</p>
+        <p>The leaf-logo was copied on September 29, 2013 from the <a href="http://www.shakespeareindelawarepark.org">Shakespeare in Delaware Park</a> website.</p>
+    </footer>
+    
+</div><!--.container-->
+</body>
+</html>
